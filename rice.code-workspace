@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "rice",
+			"path": "."
+		},
+		{
+			"name": "Rice_Image_Dataset",
+			"path": "../../Downloads/Rice_Image_Dataset"
+		}
+	],
+	"settings": {}
+}
